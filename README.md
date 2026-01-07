@@ -8,6 +8,6 @@ This is a costum devboard. Made by me. I just started to design boards. V2 comin
 <img width="322" height="603" alt="image" src="https://github.com/user-attachments/assets/d90234e7-36c4-45c0-92f8-e5272d138fde" />
 
 # PLEASE
-If you ever want to copy this prject I would relly appreciate if you put even in a tiny corner my name __Msking__. Thank you for your understanding:)
+If you ever want to copy this project I would really appreciate if you put (even in a tiny corner) my name :  __Msking__. Thank you for your understanding:)
 
 
